@@ -1,0 +1,20 @@
+.viewimage{
+    height: 60%;
+    border-radius: 40%;
+    background-color: rgb(205, 83, 144);
+    padding: 12px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    z-index: 4;
+}
+.view{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    z-index: 2;
+    background-color: rgba(91, 87, 87, 0.733);
+}

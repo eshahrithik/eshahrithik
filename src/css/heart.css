@@ -1,0 +1,13 @@
+.heart{
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    background-color: pink;
+    background-position-y: top;
+}
+.image{
+    transform: scale(1.2);
+}
+.heart:hover{
+    cursor: pointer;
+}
